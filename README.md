@@ -6,7 +6,7 @@ Welcome to the Library Management System project. This project was developed as 
 
 ## Contents
 
-- **diagrams/**: Contains all system design diagrams including MCD, MLD, and Class Diagram.
+- **diagrams/**: Contains all system design diagrams including MCD, MLD, and Class Diagram ,usecasediagram,component,flowchart,deployment diagram.
 - **database/**: Includes SQL script (LMS.sql) to generate the physical database structure.
 
 ---
@@ -15,7 +15,13 @@ Welcome to the Library Management System project. This project was developed as 
 
 - MCD: Entities, attributes, and relationships at a conceptual level
 - MLD: Refined logical structure with foreign keys and cardinalities
+-CLASSDIAGRAM:
+-USECASE DIAGRAM:
+-
+-
+-
 
+  
 ---
 
 ## Author
