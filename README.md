@@ -15,14 +15,7 @@ Welcome to the Library Management System project. This project was developed as 
 
 - MCD: Entities, attributes, and relationships at a conceptual level
 - MLD: Refined logical structure with foreign keys and cardinalities
-- 
--CLASSDIAGRAM:
-
--USECASE DIAGRAM:
--
--deployment diagram
-component
--
+  
 
   
 ---
