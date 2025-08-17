@@ -5,8 +5,6 @@ Welcome to the Library Management System project. This project was developed as 
 ---
 
 ## Contents
-
-## Contents
 - **diagrams/**: Contains all system design diagrams including MCD, MLD, and Class Diagram.
 - **database/**: Includes SQL script (lmsdb.sql) to generate the physical database structure.
 - **lms-core/**: Includes the java project for the LMS.
